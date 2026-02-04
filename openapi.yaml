@@ -9,4 +9,4 @@ spec:
   owner: artist-relations-team
   system: artist-engagement-portal
   definition: 
-    $file: 'https://gist.github.com/lenage/08964335de9064540c8c335fb849c5da'
+    $text: 'https://gist.github.com/lenage/08964335de9064540c8c335fb849c5da'
